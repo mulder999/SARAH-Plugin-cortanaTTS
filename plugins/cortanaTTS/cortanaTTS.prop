@@ -1,0 +1,10 @@
+{
+  "modules": { 
+    "cortanaTTS": {
+      "description": "Plugin qui remplace le TTS standard par celui de Cortana. Nécessite Cortana.",
+      "version": "1.0",
+      "enable": "false",
+      "welcomeText":  "Cortana est activé"
+    }
+  }
+}
